@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/NewWidgetBlueprint.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/UItrigger.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/ShopUI.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/Item.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/item_struct.uasset",
+				"C:/Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/item_datatable.uasset"
+			]
+		}
+	]
+}
