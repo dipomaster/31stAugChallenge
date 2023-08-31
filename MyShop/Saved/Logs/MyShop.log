@@ -3255,3 +3255,78 @@ If checked into revision control this would affect other developers.
 [2023.08.31-14.38.12:626][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.31-14.38.12:653][547]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2023.08.31-14.38.12:677][547]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.31-14.41.45:405][744]BlueprintLog: New page: Compile Item
+[2023.08.31-14.41.45:467][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.08.31-14.44.53:756][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.08.31-14.44.53:763][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3_Auto5
+[2023.08.31-14.44.53:764][258]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/LLV8JAHSVDPHLA7P88FLK3_Auto5F706636340FFC99103855588D7308849.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3_Auto5.uasset'
+[2023.08.31-14.44.53:768][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.053
+[2023.08.31-14.44.53:768][258]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2023.08.31-14.44.53:768][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/ShopUI] ([2] browsable assets)...
+[2023.08.31-14.44.53:775][258]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/ShopUI.ShopUI]
+[2023.08.31-14.44.53:775][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/ShopUI]
+[2023.08.31-14.44.53:786][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/ShopUI_Auto5
+[2023.08.31-14.44.53:787][258]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/ShopUI_Auto5F923719D4FA032CF10BC4686CEBC1E7C.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/Assets/ShopUI_Auto5.uasset'
+[2023.08.31-14.44.53:789][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Item] ([2] browsable assets)...
+[2023.08.31-14.44.53:791][258]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Item.Item]
+[2023.08.31-14.44.53:791][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Item]
+[2023.08.31-14.44.53:802][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Item_Auto5
+[2023.08.31-14.44.53:802][258]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Item_Auto56635B6B54F78ECBB70EE7BB4D7865A4F.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/Assets/Item_Auto5.uasset'
+[2023.08.31-14.44.53:805][258]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.08.31-14.57.12:901][165]BlueprintLog: New page: Compile Item
+[2023.08.31-14.57.13:000][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.08.31-14.57.37:915][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.08.31-14.57.37:922][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.053
+[2023.08.31-14.57.37:923][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/ShopUI] ([2] browsable assets)...
+[2023.08.31-14.57.37:931][258]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/ShopUI.ShopUI]
+[2023.08.31-14.57.37:931][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/ShopUI]
+[2023.08.31-14.57.37:946][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/ShopUI_Auto6
+[2023.08.31-14.57.37:946][258]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/ShopUI_Auto6656D301047182E17C39E1C8F223BCC35.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/Assets/ShopUI_Auto6.uasset'
+[2023.08.31-14.57.37:948][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Item] ([2] browsable assets)...
+[2023.08.31-14.57.37:957][258]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Item.Item]
+[2023.08.31-14.57.37:957][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Item]
+[2023.08.31-14.57.37:973][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Item_Auto6
+[2023.08.31-14.57.37:976][258]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Item_Auto6C47323D549EA0DCAF25073BB545984D8.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/Assets/Item_Auto6.uasset'
+[2023.08.31-14.57.37:979][258]LogFileHelpers: Auto-saving content packages took 0.057
+[2023.08.31-14.58.38:364][163]BlueprintLog: New page: Compile UItrigger
+[2023.08.31-14.58.38:472][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.08.31-14.59.44:958][470]BlueprintLog: New page: Compile UItrigger
+[2023.08.31-14.59.45:059][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.08.31-15.02.23:742][876]BlueprintLog: New page: Compile UItrigger
+[2023.08.31-15.02.23:807][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.31-15.03.07:106][924]BlueprintLog: New page: Compile UItrigger
+[2023.08.31-15.03.07:173][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.08.31-15.03.10:692][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-15.03.10:849][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UItrigger" FILE="../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/UItrigger.uasset" SILENT=true
+[2023.08.31-15.03.10:859][955]LogSavePackage: Moving output files for package: /Game/Assets/UItrigger
+[2023.08.31-15.03.10:861][955]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/UItrigger5ECA95D443D05C878D86CFB93BEFEFD2.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/UItrigger.uasset'
+[2023.08.31-15.03.10:997][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms (total: 1.67 sec)
+[2023.08.31-15.03.11:013][955]AssetCheck: New page: Asset Save: UItrigger
+[2023.08.31-15.03.11:014][955]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/UItrigger.UItrigger
+[2023.08.31-15.06.17:782][790]LogDerivedDataCache: C:/Users/DipoPersonal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 871 files in 1405 folders with total size 84 MiB.
+[2023.08.31-15.07.38:764][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.08.31-15.07.38:773][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3_Auto7
+[2023.08.31-15.07.38:774][ 31]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/LLV8JAHSVDPHLA7P88FLK3_Auto7D8E86C154584330AE2F646A1433E477C.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3_Auto7.uasset'
+[2023.08.31-15.07.38:781][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.064
+[2023.08.31-15.07.38:781][ 31]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2023.08.31-15.07.38:782][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/ShopUI] ([2] browsable assets)...
+[2023.08.31-15.07.38:790][ 31]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/ShopUI.ShopUI]
+[2023.08.31-15.07.38:790][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/ShopUI]
+[2023.08.31-15.07.38:804][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/ShopUI_Auto7
+[2023.08.31-15.07.38:804][ 31]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/ShopUI_Auto7E92319714CCCE9D46028F596159538E4.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/Autosaves/Game/Assets/ShopUI_Auto7.uasset'
+[2023.08.31-15.07.38:807][ 31]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.08.31-15.24.12:675][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.08.31-15.24.12:680][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.31-15.24.12:821][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3
+[2023.08.31-15.24.12:821][ 59]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/LLV8JAHSVDPHLA7P88FLK3F06A27AF453F0E4078FB048BB51C1BFB.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q2/LLV8JAHSVDPHLA7P88FLK3.uasset'
+[2023.08.31-15.24.12:824][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/ShopUI" FILE="../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/ShopUI.uasset" SILENT=true
+[2023.08.31-15.24.12:835][ 59]LogSavePackage: Moving output files for package: /Game/Assets/ShopUI
+[2023.08.31-15.24.12:836][ 59]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/ShopUI869DC265478EC9783685478B09B55EB8.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/ShopUI.uasset'
+[2023.08.31-15.24.12:838][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Item" FILE="../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/Item.uasset" SILENT=true
+[2023.08.31-15.24.12:847][ 59]LogSavePackage: Moving output files for package: /Game/Assets/Item
+[2023.08.31-15.24.12:848][ 59]LogSavePackage: Moving '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Saved/ItemA665A5EF417A86260E9C0C9954882F29.tmp' to '../../../../../../Users/DipoPersonal/Documents/Uni/AGD/31stAugChallenge/MyShop/Content/Assets/Item.uasset'
+[2023.08.31-15.24.12:923][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 1.91 sec)
+[2023.08.31-15.24.12:935][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.31-15.24.12:935][ 59]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/Item.Item
+[2023.08.31-15.24.12:936][ 59]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/ShopUI.ShopUI
+[2023.08.31-15.24.12:936][ 59]LogContentValidation: Display: Validating /Game/Assets/UItrigger.UItrigger_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.UItrigger_C_UAID_3814281DD29FB4A401_1612810023
